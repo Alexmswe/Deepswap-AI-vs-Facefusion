@@ -100,13 +100,7 @@ This website offers online face swapping functionality without the need for down
 ## Pros and Cons for Deepswap and Facefusion
 | Tool      | Pros                                           | Cons                                             |
 |-----------|------------------------------------------------|--------------------------------------------------|
-| Facefusion| - Totally free for face swap images and videos | - Not recommend for beginners, needs technical skills
-            | - High quality face swap results               | - High requirements on computer and GPU
-            | - You can adjust the parameters yourself to achieve better results | - Complex to use
-| [Deepswap](https://www.deepswap.ai/)  | - Easy to use                                  | - Paid option
-            | - Unique face swap result due to self training model | - Can’t adjust the parameters
-            | - High quality                                |
-            | - Fast generated speed due to powerful GPU    |
-            | - Performs better in challenging scenes       |
+| Facefusion| - Totally free for face swap images and videos - High quality face swap results - You can adjust the parameters yourself to achieve better results | - Not recommend for beginners, needs technical skills - High requirements on computer and GPU - Complex to use |
+| [Deepswap](https://www.deepswap.ai/)  | - Easy to use - Unique face swap result due to self training model - High quality - Fast generated speed due to powerful GPU - Performs better in challenging scenes | - Paid option - Can’t adjust the parameters |
 ## Summary
 Based on our testing, Deepswap likely employs its own models, resulting in outputs that differ from FaceFusion and perform better in some complex face-swapping scenarios. If you are a beginner and prefer not to download any software, Deepswap is a good option to consider.
